@@ -23,3 +23,29 @@ This is a more fleshed out version of my previous Next.js + Shopify site, which 
   - individual product page
   - privacy and terms page
   - checkout page (simply display message saying _thank you, but this is a test store, and your cart has been cleared_, and have cta to go back home)
+- Number of Collections: 6
+- Number of Products: 25
+
+## Page Structure
+
+- Global
+  - Nav
+    - Links to the left
+    - Logo centered
+    - Search, account, and cart icons on the right
+  - Footer
+    - Instagram photo's grid (kiv)
+    - Footer (layout like boh)
+- Home
+  - Hero
+  - 3 card grid (icon, heading, text)
+  - Collections Grid (4 columns across, no gap)
+  - Features Products
+  - Single Collection Row (different from the 4 in the above row)
+  - 50/50 About Us
+- Collection Page
+  - Filter menu along top
+  - Product Cards Grid
+- Individual Product Page
+  - Image on left, title, description, price, add to card button, etc. on the right
+  - Have "related products" / "customers also bought" section beneath
